@@ -1,1 +1,3 @@
 this is my 1st file in git
+another lin added
+this is the 3rd line 
